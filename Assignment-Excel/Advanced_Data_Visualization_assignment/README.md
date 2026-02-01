@@ -72,7 +72,7 @@ Each question is listed with the complete task and a concise summary of the step
 
 Here is the snapshot of the final dashboard:
 
-![Dashboard Snapshot](/Advanced_Data_Visualization_assignment/Snapshot.jpg)
+![Dashboard Snapshot](./Advanced_Data_Visualization_assignment/Snapshot.jpg)
 
 ---
 
@@ -89,5 +89,6 @@ Here is the snapshot of the final dashboard:
 Prepared by **Adil Husain (Adil-9869)**  
 
 Focus: Clarity, collaboration, and visual polish in technical learning.
+
 
 
